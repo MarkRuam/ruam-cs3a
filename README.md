@@ -1,6 +1,6 @@
 # Welcome to streamlit
 
-[My Strrreamlit App](https://ruam-cs3a-56ccw7dy0j6.streamlit.app/)
+[My Streamlit App](https://ruam-cs3a-56ccw7dy0j6.streamlit.app/)
 
 This is the app you get when you run `streamlit hello`, extracted as its own app.
 
